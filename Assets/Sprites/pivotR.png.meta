@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 7c9ed6957bab15f4ca35369b29981926
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4480833939950466204
+    second: characterRed_0
+  - first:
+      213: -990090711794194551
+    second: characterRed_1
+  - first:
+      213: -909620483431997735
+    second: characterRed_2
+  - first:
+      213: 5430384446848857303
+    second: characterRed_3
+  - first:
+      213: 1656478573148810101
+    second: characterRed_4
+  - first:
+      213: 6365719868302529659
+    second: characterRed_5
+  - first:
+      213: -4806809652594693815
+    second: characterRed_6
+  - first:
+      213: 4195362015888801567
+    second: characterRed_7
+  - first:
+      213: -6754987043284395859
+    second: characterRed_8
+  - first:
+      213: 1377634590636337212
+    second: characterRed_9
+  - first:
+      213: -2013223621323454654
+    second: characterRed_10
+  - first:
+      213: -423651736459173900
+    second: characterRed_11
+  - first:
+      213: 4109193296951244102
+    second: characterRed_12
+  - first:
+      213: 7447744857592599185
+    second: characterRed_13
+  - first:
+      213: 8776481791065863350
+    second: characterRed_14
+  - first:
+      213: 7323275413846540834
+    second: characterRed_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: characterRed_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 906
+        width: 228
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94f2485abe1f2e30800000000000000
+      internalID: 4480833939950466204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 907
+        width: 218
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987e71c4ebd7242f0800000000000000
+      internalID: -990090711794194551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 906
+        width: 228
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dedd9c5df06063f0800000000000000
+      internalID: -909620483431997735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_3
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 906
+        width: 219
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d47b3c02e99c5b40800000000000000
+      internalID: 5430384446848857303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 612
+        width: 228
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ba4926c7efcf610800000000000000
+      internalID: 1656478573148810101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 613
+        width: 218
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7491d14e74975850800000000000000
+      internalID: 6365719868302529659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_6
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 612
+        width: 228
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949ac2aa618ca4db0800000000000000
+      internalID: -4806809652594693815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_7
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 612
+        width: 215
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ff735868be83a30800000000000000
+      internalID: 4195362015888801567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 306
+        width: 142
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8daa6d2177142a0800000000000000
+      internalID: -6754987043284395859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 306
+        width: 142
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c386b257c575e1310800000000000000
+      internalID: 1377634590636337212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_10
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 306
+        width: 142
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247079d68c79f04e0800000000000000
+      internalID: -2013223621323454654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_11
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 306
+        width: 142
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff9fd38df2ee1af0800000000000000
+      internalID: -423651736459173900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 6
+        width: 142
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645f13a3889c60930800000000000000
+      internalID: 4109193296951244102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 6
+        width: 142
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929c86fc74bb5760800000000000000
+      internalID: 7447744857592599185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 6
+        width: 142
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b43a2e60b35cc970800000000000000
+      internalID: 8776481791065863350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterRed_15
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 6
+        width: 142
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222cca2403081a560800000000000000
+      internalID: 7323275413846540834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      characterRed_8: -6754987043284395859
+      characterRed_10: -2013223621323454654
+      characterRed_14: 8776481791065863350
+      characterRed_15: 7323275413846540834
+      characterRed_12: 4109193296951244102
+      characterRed_7: 4195362015888801567
+      characterRed_5: 6365719868302529659
+      characterRed_9: 1377634590636337212
+      characterRed_11: -423651736459173900
+      characterRed_2: -909620483431997735
+      characterRed_4: 1656478573148810101
+      characterRed_3: 5430384446848857303
+      characterRed_0: 4480833939950466204
+      characterRed_13: 7447744857592599185
+      characterRed_1: -990090711794194551
+      characterRed_6: -4806809652594693815
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
